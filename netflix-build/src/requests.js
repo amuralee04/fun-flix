@@ -14,4 +14,3 @@ const requests = {
 
 export default requests;
 
-//https://api.themoviedb.org/3/discover/tv?api_key=787444f33a7ff4a32a4918670368013c&with_networks=213
