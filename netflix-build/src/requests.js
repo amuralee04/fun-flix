@@ -1,5 +1,5 @@
 //Implement API Key from TMDB (The Movie Database)
-const apiKey = "";
+const apiKey = "787444f33a7ff4a32a4918670368013c";
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${apiKey}&language=en-US`,
